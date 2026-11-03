@@ -1,0 +1,2 @@
+CREATE DATABASE BookVerse_DB;
+USE BookVerse_DB;
